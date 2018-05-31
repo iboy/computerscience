@@ -1,0 +1,73 @@
+The Robo bit
+---------------
+Objective
+
+Investigate getting the Buggy to work
+
+We can use a visual programming environment to get started
+
+- Microsoft PXT  / MakeCode
+
+We need to add a module to control the buggy.
+We
+
+------
+Step 1
+------
+In Chrome, visit
+
+https://makecode.microbit.org
+
+
+------
+Step 2
+------
+Click
+
+Add Package
+
+
+------
+Step 3
+------
+Copy this link into the search field:
+
+https://github.com/4tronix/Robobit
+
+
+and
+Accept the warning about the bluetooth issue
+------
+
+It worked if: 
+You  see a little  taxi.
+
+Visual coding is different from MicroPython.
+It is designed so you can learn it quickly
+
+------
+Step 4 - Load a program into the editor
+------
+Drag the HEX file in the folder on 
+
+ICT Student Share / Year 7 / Microbit / Robo Bit /
+
+into the visual editor.
+
+You should see the program appear.
+
+
+Investigate.
+
+Move the .hex files to the microbit(s)
+
+---------------
+Extension Tasks
+---------------
+
+Move in  a square
+Move in a circle
+
+Create a remote control
+
+
